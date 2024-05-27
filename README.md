@@ -5,3 +5,4 @@ The hovering BEMT models are multiple. There are models for estimating rotor per
 Those models are used for finding the optimal twist and chord distributions using MATLAB optimization toolbox.
 For forward flight, it has been created a model for estimating rotor performance of rigid rotors (no pitch, no lead-lag or flapping hinges). An optimization function has been also created.
 Additionally, the .zip files contain required .txt files for running the codes. Those .txt files have the aerodynamic properties of the airfoils used for the model and estimated with XFOIL.
+Each code .m contains an explanation at the beginning about what the code does, which are the user inputs, hypothesis assumed for the code model and external function files that are used for running the code. 
