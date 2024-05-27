@@ -1,4 +1,4 @@
-The project aims to creat models for estimating rotor performance a two different flight regimes: hovering and forward flight.
+The project aims to create models for estimating rotor performance a two different flight regimes: hovering and forward flight.
 The created models are based on Blade Element momentum theory and they have been adapted so they can be used for small scale rotors as well as large scale rotors.
 The models have been developed for linearized BEMT and full BEMT and an adaptation of linearized BEMT who also considers the dependency of lift and drag with reynolds number and it's non linear behaviour.
 The hovering BEMT models are multiple. There are models for estimating rotor performance of a fixed geometry and other models for estimating the required pilot input (Collective pitch or rotational speed).
